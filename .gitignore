@@ -1,0 +1,4 @@
+*.pyc
+etc/settings.json
+.venv
+.env
